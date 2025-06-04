@@ -8,7 +8,4 @@ int main()
     float a=3.14*r*r;
     printf("the Circumference of the circle is:%f",c);
     printf("\nThe area of Circle is\r:%f",a);
-
-
-
 }
